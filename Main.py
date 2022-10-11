@@ -26,7 +26,7 @@ def merge_sort(data):
         while j < len(righthalf):
             data[k]=righthalf[j]
             j=j+1 
-            k=k+4
+            k=k+1
 
 
 # Do not change the following code
